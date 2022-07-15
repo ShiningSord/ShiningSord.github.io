@@ -1,0 +1,67 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: nofooter
+
+~~~
+{}{img_left}{siting-1.jpg}{150}{150}{Siting Liu}
+Siting Liu, Ph.D. Student \n
+[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
+Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
+~~~
+
+== Biography
+I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
+Previously, I received my B.S. in the Department of Computer Science and Technology from [http://www.hust.edu.cn Huazhong University of Science and Technology (HUST)] in 2020.
+
+== Contact
+Email: lusicaliu@outlook.com \n
+[https://github.com/Lusica1031 Github]
+
+== Research Interest
+- Machine Learning in EDA
+- GPU Acceleration
+
+== Publication
+=== Conference papers
+- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022. *(Best Paper Award)*
+
+- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022.
+
+- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. *(Best Paper Award Nomination)*
+
+- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021.
+
+- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021. (Invited Paper)
+
+- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021.
+
+=== Journal papers
+- \[J1\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jianli Chen, Hao Yu, Bei Yu, "Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 27, no. 4, 2022.
+
+#Does not have temporarily, diligently!
+
+== Education
+- Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
+  Aug 2020 - present
+- B.S.  (ACM class), Computer Science and Technology,
+  [http://www.hust.edu.cn Huazhong University of Science and Technology(HUST)], Sept 2016 - June 2020
+
+== Teaching
+- CSCI1540, 2020-R1,    Introduction to Computing Using C++
+- CSCI4120, 2020-R2,    Principles of Computer Game Software
+- CSCI1130, 2021-R1,    Introduction to Computing Using Java
+- CSCI1530, 2021-R2,    Computer Principles and Java Programming
+
+== Awards
+- Best Paper Award, DATE, 2022
+- Best Paper Award Nomination,  DATE,   2021
+- Full Postgraduate Studentship, 	CUHK, 	2020-2024
+- Outstanding Graduate, 	HUST, 	2020
+- CCF Elite Collegiate Student Award, 	CCF, 	2019
+- National Encouragement Scholarship, 	HUST, 	2017 2018 2019
+- First Prize in Mathematics competition of Chinese College Students, 	CMS, 	2017
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=QGW25KQ8MaU7zwbQXSMND-9LftuITB9SyrkqhM00Hjg"></script>

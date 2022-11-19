@@ -3,8 +3,8 @@
 # jemdoc: nofooter
 
 ~~~
-{}{img_left}{siting-1.jpg}{150}{150}{Siting Liu}
-Siting Liu, Ph.D. Student \n
+{}{img_left}{zixiao.jpg}{150}{150}{Zixiao Wang}
+Zixiao Wang, Ph.D. Student \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
 Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
@@ -12,56 +12,47 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 
 == Biography
 I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
-under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
-Previously, I received my B.S. in the Department of Computer Science and Technology from [http://www.hust.edu.cn Huazhong University of Science and Technology (HUST)] in 2020.
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2022. 
+
 
 == Contact
-Email: lusicaliu@outlook.com \n
-[https://github.com/Lusica1031 Github]
+Email: zixiaowang97@qq.com \n
+[https://github.com/ShiningSord Github]
 
 == Research Interest
-- Machine Learning in EDA
-- GPU Acceleration
+- Transfer Learning on Human Pose
+- Layout Pattern Generation
 
 == Publication
 === Conference papers
-- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022. *(Best Paper Award)*
+- \[C2\] *Zixiao Wang*, Junwu Weng, Chun Yuan, Jue Wang, “Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos”, Thirty-Seventh AAAI Conference on Artificial Intelligence (*AAAI*), 2023.
 
-- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022.
-
-- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. *(Best Paper Award Nomination)*
-
-- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021.
-
-- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021. (Invited Paper)
-
-- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021.
+- \[C1\] Haijin Ding, *Zixiao Wang*, Rebing Wu, “Enhancing the security of multi-agent networked control systems using QKD based homomorphic encryption”, IEEE Conference on Decision and Control (*CDC*), 2018.
 
 === Journal papers
-- \[J1\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jianli Chen, Hao Yu, Bei Yu, "Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 27, no. 4, 2022.
+- Hope some good news~
 
 #Does not have temporarily, diligently!
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
-  Aug 2020 - present
-- B.S.  (ACM class), Computer Science and Technology,
-  [http://www.hust.edu.cn Huazhong University of Science and Technology(HUST)], Sept 2016 - June 2020
+  Aug 2022 - present
+- M.S. Computer Science and Technology, [https://www.tsinghua.edu.cn/ Tsinghua University], 
+  Sept 2019 - June 2022
+- B.S. Automation,
+  [https://www.tsinghua.edu.cn/ Tsinghua University], Sept 2015 - June 2019
 
-== Teaching
-- CSCI1540, 2020-R1,    Introduction to Computing Using C++
-- CSCI4120, 2020-R2,    Principles of Computer Game Software
-- CSCI1130, 2021-R1,    Introduction to Computing Using Java
-- CSCI1530, 2021-R2,    Computer Principles and Java Programming
+
 
 == Awards
-- Best Paper Award, DATE, 2022
-- Best Paper Award Nomination,  DATE,   2021
-- Full Postgraduate Studentship, 	CUHK, 	2020-2024
-- Outstanding Graduate, 	HUST, 	2020
-- CCF Elite Collegiate Student Award, 	CCF, 	2019
-- National Encouragement Scholarship, 	HUST, 	2017 2018 2019
-- First Prize in Mathematics competition of Chinese College Students, 	CMS, 	2017
+- Full Postgraduate Studentship,    CUHK,    2022-2026
+- Outstanding Graduate of Computer Science and Technology, THU,    2022
+- Qi Hang Scholarship, THU,    2019
+- Academician Ni Weidou, Scholarship Endowment Fund, THU,    2018
+- Zheng Geru Scholarship, THU,    2017
+- Comprehensive Scholarship, THU,    2016 2020
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=QGW25KQ8MaU7zwbQXSMND-9LftuITB9SyrkqhM00Hjg"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=iHlP4tBMGwGVo01R9I7cU3oiJ2xzr37ujG5l_4EjPJ0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+

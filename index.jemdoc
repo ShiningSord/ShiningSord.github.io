@@ -47,6 +47,7 @@ Email: zixiaowang97@qq.com \n
 == Publication
 \* denotes equal contribution.
 === Conference papers
+- \[C5\] *Zixiao Wang\**, Yunheng Shen\*, Xufeng Yao, Wenqian Zhao, Yang Bai, Farzan Farnia, Bei Yu, “ChatPattern: Layout Pattern Customization via Natural Language”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024.
 
 - \[C4\] Yang Bai, Wenqian Zhao, Shuo Yin, *Zixiao Wang*, Bei Yu, “[https://aclanthology.org/2023.emnlp-main.250/ ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers]”, Empirical Methods in Natural Language Processing (*EMNLP*), Singapore, Dec. 06–10, 2023. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C4-EMNLP2023-ATFormer.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C4-EMNLP2023-ATFormer-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C4-EMNLP2023-ATFormer-slides.pdf slides])
 

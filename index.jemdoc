@@ -46,6 +46,13 @@ Email: zixiaowang97@qq.com \n
 
 == Publication
 \* denotes equal contribution.
+
+=== Selected Preprint
+
+[1] "On the Distributed Evaluation of Generative Models", ([arXiv])
+[2] "MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations", ([arXiv])
+
+
 === Conference papers
 - \[C5\] *Zixiao Wang\**, Yunheng Shen\*, Xufeng Yao, Wenqian Zhao, Yang Bai, Farzan Farnia, Bei Yu, “ChatPattern: Layout Pattern Customization via Natural Language”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C5-DAC2024-ChatPattern.pdf paper])
 

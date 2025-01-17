@@ -74,6 +74,8 @@ Email: zixiaowang97@qq.com \n
 - \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, Shixin Chen, *Zixiao Wang*, Bei Yu, “[https://ieeexplore.ieee.org/document/10255251 GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 02, pp. 586–599, 2024. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J1-TCAD2024-GTCO.pdf paper])
 
 
+== Softwares
+- [https://github.com/ShiningSord/TorchResist TorchResist]: An open-source differentiable photoresist simulator that is implemented with Pytorch.
 
 
 == Experience

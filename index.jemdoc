@@ -21,9 +21,9 @@ Email: zixiaowang97@qq.com \n
 [https://github.com/ShiningSord Github]
 
 == Research Interest
-- Generative Model X EDA
-- Efficient Large Language Models
-- Human-Centralized Machine Learning Tasks
+- Generative Model X EDA (DAC23,DAC24,TCAD24,DAC25,SPIE25)
+- Efficient Large Language Models(EMNLP23,TCAD24,TCAD25)
+- Human-Centralized Machine Learning Tasks(AAAI23,AAAI25)
   
 
 
@@ -56,6 +56,8 @@ Email: zixiaowang97@qq.com \n
 
 
 === Conference papers
+- \[C8\] Ziyang Yu, Peng Xu, *Zixiao WANG*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 22–25, 2025.
+
 - \[C7\] *Zixiao Wang*, Junwu Weng, Mengyuan Liu, Bei Yu, “FlexPose: Pose Distribution Adaptation with Limited Guidance”, AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, Feb. 25–Mar. 04, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C7-AAAI25-FlexPose.pdf paper])
 
 - \[C6\] *Zixiao Wang*, Jieya Zhou, Su Zheng, Shuo Yin, Kaichao Liang, Shoubo Hu, Xiao Chen, Bei Yu, “TorchResist: Open-source differentiable resist simulator”, SPIE Advanced Lithography + Patterning, San Jose, Feb. 23–27, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C6-SPIE2025-TorchResist.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C6-SPIE2025-TorchResist-poster.pdf poster]) ([https://github.com/ShiningSord/TorchResist code])

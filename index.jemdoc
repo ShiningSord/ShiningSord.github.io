@@ -1,5 +1,5 @@
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{myMiddle.css}
 # jemdoc: nofooter
 
 ~~~
@@ -74,7 +74,7 @@ Email: zixiaowang97@qq.com \n
 
 === Journal papers
 - \[J5\] *Zixiao Wang*, Wenqian Zhao, Yunheng Shen, Yang Bai, Guojin Chen, Farzan Farnia, Bei Yu, “[https://doi.org/10.1109/TCAD.2025.3569493 DiffPattern-Flex: Efficient Layout Pattern Generation via Discrete Diffusion]”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J5-TCAD2025-DiffPatternFlex.pdf paper])
-- \[J4\] Wenqian Zhao, Lancheng Zou, *Zixiao Wang*, Xufeng Yao, Bei Yu “[https://doi.org/10.1145/3744244 HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization]”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*). ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J4-TODAES2025-HAPE.pdf paper])
+- \[J4\] Wenqian Zhao, Lancheng Zou, *Zixiao Wang*, Xufeng Yao, Bei Yu “[https://doi.org/10.1145/3744244 HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization]”, ACM Transactions on Design Automation of Electronic Systems *TODAES*), vol. 30, no. 04, pp. 61:1–61:18, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J4-TODAES2025-HAPE.pdf paper]) <span class="red">(*Editor's Pick*)</span>
 - \[J3\] Wenqian Zhao, Shuo Yin, Chen Bai, *Zixiao Wang*, Bei Yu, “[https://ieeexplore.ieee.org/document/10711872 BAQE: Backend-Adaptive DNN Deployment via Synchronous Bayesian Quantization and Hardware Configuration Exploration]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 05, pp. 1915–1927, 2025. (*TCAD*). ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J3-TCAD2025-BAQE.pdf paper])
 - \[J2\] Guojin Chen, *Zixiao Wang*, Bei Yu, David Z. Pan, Martin D.F. Wong, “[https://ieeexplore.ieee.org/document/10419017 Ultra-Fast Source Mask Optimization via Conditional Discrete Diffusion]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 07, pp. 2140–2150, 2024. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J2-TCAD2024-SMO.pdf paper])
 - \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, Shixin Chen, *Zixiao Wang*, Bei Yu, “[https://ieeexplore.ieee.org/document/10255251 GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 02, pp. 586–599, 2024. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J1-TCAD2024-GTCO.pdf paper])
@@ -95,6 +95,13 @@ Email: zixiaowang97@qq.com \n
 - ENGG2760A, 2023-R1, Probability for Engineers
 - CSCI5030, 2022-R2, Machine Learning Theory
 - ENGG2020, 2022-R1, Digital Logic and Systems
+
+
+~~~
+{}{raw}
+<script type="text/javascript" id="clustrmaps"
+  src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=iHlP4tBMGwGVo01R9I7cU3oiJ2xzr37ujG5l_4EjPJ0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+~~~
 
 
 

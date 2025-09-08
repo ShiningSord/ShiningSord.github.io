@@ -56,7 +56,11 @@ Email: zixiaowang97@qq.com \n
 
 
 === Conference papers
-- \[C8\] Ziyang Yu, Peng Xu, *Zixiao WANG*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 22–25, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-slides.pdf slides])
+- \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
+
+- \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
+
+- \[C8\] Ziyang Yu, Peng Xu, *Zixiao Wang*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-slides.pdf slides])
 
 - \[C7\] *Zixiao Wang*, Junwu Weng, Mengyuan Liu, Bei Yu, “[https://ojs.aaai.org/index.php/AAAI/article/view/35446 FlexPose: Pose Distribution Adaptation with Limited Guidance]”, AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, Feb. 25–Mar. 04, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C7-AAAI25-FlexPose.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C7-AAAI25-FlexPose-poster.pdf poster])
 

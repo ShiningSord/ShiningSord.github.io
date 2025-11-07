@@ -13,6 +13,7 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 == Biography
 I am currently a Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] and [https://www.cse.cuhk.edu.hk/~farnia/ Prof. Farzan Farnia] since Fall 2022. 
+Previously, I received my M.Sc. in Computer Science and Technology and my B.Eng. in Automation with a second major in Economics from [https://www.tsinghua.edu.cn/ Tsinghua University].
 
 
 == Contact
@@ -21,9 +22,9 @@ Email: zixiaowang97@qq.com \n
 [https://github.com/ShiningSord Github]
 
 == Research Interest
-- Generative Model X EDA (DAC23,DAC24,TCAD24,DAC25,SPIE25,TCAD25)
+- Machine Learning X Simulation X EDA (DAC23,DAC24,TCAD24,DAC25,SPIE25,TCAD25,ASPDAC2026,DATE26*3)
 - Efficient Large Language Models(EMNLP23,TCAD24,TCAD25,TODAES25)
-- Human-Centralized Machine Learning Tasks(AAAI23,AAAI25)
+- Human-Centralized Machine Learning Tasks(AAAI23,AAAI25,ASPDAC2026)
   
 
 
@@ -56,6 +57,12 @@ Email: zixiaowang97@qq.com \n
 
 
 === Conference papers
+- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “DiffResist: Physics-Constrained Diffusion for Photoresist Modeling”, Design, Automation and Test in Europe Conference (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
+- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis”, Design, Automation and Test in Europe Conference (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
+- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection”, Design, Automation and Test in Europe Conference (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
 - \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
 
 - \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
@@ -78,7 +85,7 @@ Email: zixiaowang97@qq.com \n
 
 === Journal papers
 - \[J5\] *Zixiao Wang*, Wenqian Zhao, Yunheng Shen, Yang Bai, Guojin Chen, Farzan Farnia, Bei Yu, “[https://doi.org/10.1109/TCAD.2025.3569493 DiffPattern-Flex: Efficient Layout Pattern Generation via Discrete Diffusion]”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J5-TCAD2025-DiffPatternFlex.pdf paper])
-- \[J4\] Wenqian Zhao, Lancheng Zou, *Zixiao Wang*, Xufeng Yao, Bei Yu “[https://doi.org/10.1145/3744244 HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization]”, ACM Transactions on Design Automation of Electronic Systems *TODAES*), vol. 30, no. 04, pp. 61:1–61:18, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J4-TODAES2025-HAPE.pdf paper]) {{<span class="red">(Editor's Pick)</span>}}
+- \[J4\] Wenqian Zhao, Lancheng Zou, *Zixiao Wang*, Xufeng Yao, Bei Yu “[https://doi.org/10.1145/3744244 HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization]”, ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 30, no. 04, pp. 61:1–61:18, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J4-TODAES2025-HAPE.pdf paper]) {{<span class="red">(Editor's Pick)</span>}}
 
 - \[J3\] Wenqian Zhao, Shuo Yin, Chen Bai, *Zixiao Wang*, Bei Yu, “[https://ieeexplore.ieee.org/document/10711872 BAQE: Backend-Adaptive DNN Deployment via Synchronous Bayesian Quantization and Hardware Configuration Exploration]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 05, pp. 1915–1927, 2025. (*TCAD*). ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J3-TCAD2025-BAQE.pdf paper])
 - \[J2\] Guojin Chen, *Zixiao Wang*, Bei Yu, David Z. Pan, Martin D.F. Wong, “[https://ieeexplore.ieee.org/document/10419017 Ultra-Fast Source Mask Optimization via Conditional Discrete Diffusion]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 07, pp. 2140–2150, 2024. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/J2-TCAD2024-SMO.pdf paper])

@@ -22,9 +22,9 @@ Email: zixiaowang97@qq.com \n
 [https://github.com/ShiningSord Github]
 
 == Research Interest
-- Machine Learning X Simulation X EDA (DAC23,DAC24,TCAD24,DAC25,SPIE25,TCAD25,ASPDAC2026,DATE26*3)
-- Efficient Large Language Models(EMNLP23,TCAD24,TCAD25,TODAES25)
-- Human-Centralized Machine Learning Tasks(AAAI23,AAAI25,ASPDAC2026)
+- Design for Manufacturability
+- Simulation within EDA
+- Hardware-efficient Machine Learning
   
 
 
@@ -42,6 +42,8 @@ Email: zixiaowang97@qq.com \n
 - Full Postgraduate Studentship,    CUHK,    2022-2026
 - Outstanding Graduate of Computer Science and Technology, THU,    2022
 - Qi Hang Scholarship, THU,    2019
+- 2nd Place Award in Technical Challenge (Team Vulcan), RoboCup, 2018
+- 3rd Place Award in 1v1 Contest (Team Vulcan), RoboCup, 2018
 - Academician Ni Weidou, Scholarship Endowment Fund, THU,    2018
 - Zheng Geru Scholarship, THU,    2017
 - Comprehensive Scholarship, THU,    2016 2020
@@ -67,7 +69,7 @@ Email: zixiaowang97@qq.com \n
 
 - \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
 
-- \[C8\] Ziyang Yu, Peng Xu, *Zixiao Wang*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-slides.pdf slides])
+- \[C8\] Ziyang Yu, Peng Xu, *Zixiao Wang*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “[https://doi.org/10.1109/DAC63849.2025.11133153 SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation]”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-slides.pdf slides])
 
 - \[C7\] *Zixiao Wang*, Junwu Weng, Mengyuan Liu, Bei Yu, “[https://ojs.aaai.org/index.php/AAAI/article/view/35446 FlexPose: Pose Distribution Adaptation with Limited Guidance]”, AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, Feb. 25–Mar. 04, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C7-AAAI25-FlexPose.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C7-AAAI25-FlexPose-poster.pdf poster])
 

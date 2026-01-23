@@ -65,9 +65,9 @@ Email: zixiaowang97@qq.com \n
 
 - \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection”, Design, Automation and Test in Europe Conference (*DATE*), Verona, Italy, Apr. 20–22, 2026.
 
-- \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
+- \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C10-ASPDAC2026-DCLOG.pdf paper])
 
-- \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026.
+- \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems”, IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong Disneyland, Jan. 19–22, 2026. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C9-ASPDAC2026-Event-ReID.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C9-ASPDAC2026-Event-ReID-slides.pdf slides])
 
 - \[C8\] Ziyang Yu, Peng Xu, *Zixiao Wang*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “[https://doi.org/10.1109/DAC63849.2025.11133153 SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation]”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025. ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB.pdf paper]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-poster.pdf poster]) ([https://github.com/ShiningSord/ShiningSord.github.io/blob/main/papers/C8-DAC2025-PEB-slides.pdf slides])
 
@@ -116,7 +116,6 @@ Email: zixiaowang97@qq.com \n
 <script type="text/javascript" id="clustrmaps"
   src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=iHlP4tBMGwGVo01R9I7cU3oiJ2xzr37ujG5l_4EjPJ0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 ~~~
-
 
 
 

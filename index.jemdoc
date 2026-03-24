@@ -98,6 +98,7 @@ Email: zixiaowang97@qq.com \n
 
 == Softwares
 - [https://github.com/ShiningSord/TorchResist TorchResist]: An open-source differentiable photoresist simulator that is implemented with Pytorch.
+- [https://github.com/shiningsord/moreaupruner MoreauPruner]: Robust pruning framework for large language models against weight perturbations.
 
 
 == Experience

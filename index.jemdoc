@@ -61,11 +61,11 @@ Email: zixiaowang97@qq.com \n
 === Conference papers
 - \[C14\] Leilei Jin, Haoyang Xu, Siyuan Liang, Zhen Zhuang, Zhou Hu, *Zixiao Wang*, Bei Yu, Rongmei Chen, Tsung-Yi Ho, “BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
 
-- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “DiffResist: Physics-Constrained Diffusion for Photoresist Modeling”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “DiffResist: Physics-Constrained Diffusion for Photoresist Modeling”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])
 
-- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C12-DATE2026-FastRW.pdf paper]) ([papers/C12-DATE2026-FastRW-poster.pdf poster]) ([papers/C12-DATE2026-FastRW-slides.pdf slides])
 
-- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C11-DATE2026-Node2Node.pdf paper])
 
 - \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C10-ASPDAC2026-DCLOG.pdf paper])
 

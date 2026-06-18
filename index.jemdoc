@@ -53,18 +53,18 @@ Email: zixiaowang97@qq.com \n
 
 === Selected Preprint
 
-- \[1\] "On the Distributed Evaluation of Generative Models", ([https://arxiv.org/abs/2310.11714 arXiv])
+- \[1\] "On the Distributed Evaluation of Generative Models", ([https://arxiv.org/abs/2310.11714 arXiv]) ([https://openaccess.thecvf.com/content/ICCV2025W/CEGIS/html/Wang_On_the_Distributed_Evaluation_of_Generative_Models_ICCVW_2025_paper.html ICCVW])
 - \[2\] "MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations", ([https://arxiv.org/abs/2406.07017 arXiv]) ([https://github.com/shiningsord/moreaupruner code])
 
 
 === Conference papers
 - \[C14\] Leilei Jin, Haoyang Xu, Siyuan Liang, Zhen Zhuang, Zhou Hu, *Zixiao Wang*, Bei Yu, Rongmei Chen, Tsung-Yi Ho, “BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
 
-- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “DiffResist: Physics-Constrained Diffusion for Photoresist Modeling”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])
+- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539572 DiffResist: Physics-Constrained Diffusion for Photoresist Modeling]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])
 
-- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C12-DATE2026-FastRW.pdf paper]) ([papers/C12-DATE2026-FastRW-poster.pdf poster]) ([papers/C12-DATE2026-FastRW-slides.pdf slides]) ([https://github.com/ShiningSord/FastRW code])
+- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539721 FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C12-DATE2026-FastRW.pdf paper]) ([papers/C12-DATE2026-FastRW-poster.pdf poster]) ([papers/C12-DATE2026-FastRW-slides.pdf slides]) ([https://github.com/ShiningSord/FastRW code])
 
-- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C11-DATE2026-Node2Node.pdf paper])
+- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “[https://doi.org/10.23919/DATE69613.2026.11539589 Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C11-DATE2026-Node2Node.pdf paper])
 
 - \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “[https://doi.org/10.1109/ASP-DAC66049.2026.11420303 DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C10-ASPDAC2026-DCLOG.pdf paper])
 
@@ -90,8 +90,8 @@ Email: zixiaowang97@qq.com \n
 - \[J5\] *Zixiao Wang*, Wenqian Zhao, Yunheng Shen, Yang Bai, Guojin Chen, Farzan Farnia, Bei Yu, “[https://doi.org/10.1109/TCAD.2025.3569493 DiffPattern-Flex: Efficient Layout Pattern Generation via Discrete Diffusion]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 12, pp. 4679–4690, 2025. ([papers/J5-TCAD2025-DiffPatternFlex.pdf paper])
 - \[J4\] Wenqian Zhao, Lancheng Zou, *Zixiao Wang*, Xufeng Yao, Bei Yu “[https://doi.org/10.1145/3744244 HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization]”, ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 30, no. 04, pp. 61:1–61:18, 2025. ([papers/J4-TODAES2025-HAPE.pdf paper]) {{<span class="red">(Editor's Pick)</span>}}
 
-- \[J3\] Wenqian Zhao, Shuo Yin, Chen Bai, *Zixiao Wang*, Bei Yu, “[https://doi.org/10.1109/TCAD.2024.3476450 BAQE: Backend-Adaptive DNN Deployment via Synchronous Bayesian Quantization and Hardware Configuration Exploration]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 05, pp. 1915–1927, 2025. (*TCAD*). ([papers/J3-TCAD2025-BAQE.pdf paper])
-- \[J2\] Guojin Chen, *Zixiao Wang*, Bei Yu, David Z. Pan, Martin D.F. Wong, “[https://doi.org/10.1109/TCAD.2024.3361400 Ultra-Fast Source Mask Optimization via Conditional Discrete Diffusion]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 07, pp. 2140–2150, 2024. ([papers/J2-TCAD2024-SMO.pdf paper])
+- \[J3\] Wenqian Zhao, Shuo Yin, Chen Bai, *Zixiao Wang*, Bei Yu, “[https://doi.org/10.1109/TCAD.2024.3476450 BAQE: Backend-Adaptive DNN Deployment via Synchronous Bayesian Quantization and Hardware Configuration Exploration]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 04, pp. 1394–1405, 2025. ([papers/J3-TCAD2025-BAQE.pdf paper])
+- \[J2\] Guojin Chen, *Zixiao Wang*, Bei Yu, David Z. Pan, Martin D.F. Wong, “[https://doi.org/10.1109/TCAD.2024.3361400 Ultrafast Source Mask Optimization via Conditional Discrete Diffusion]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 07, pp. 2140–2150, 2024. ([papers/J2-TCAD2024-SMO.pdf paper])
 - \[J1\] Yang Bai, Xufeng Yao, Qi Sun, Wenqian Zhao, Shixin Chen, *Zixiao Wang*, Bei Yu, “[https://doi.org/10.1109/TCAD.2023.3317169 GTCO: Graph and Tensor Co-Design for Transformer-based Image Recognition on Tensor Cores]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 43, no. 02, pp. 586–599, 2024. ([papers/J1-TCAD2024-GTCO.pdf paper])
 
 
@@ -102,7 +102,7 @@ Email: zixiaowang97@qq.com \n
 
 
 == Experience
-- Research Intern, Primarius Technologies, Shanghai, China, 2026.01-Present
+- Research Intern, Primarius Technologies, Shanghai, China, 2026.01-2026.06
 - Research Intern, Huawei Noah's Ark Lab, HongKong, China, 2024.08-2025.05
 - Research Intern, SenseTime, HongKong, China, 2023.04-2023.12
 - Research Intern, Tencent AI Lab, Shenzhen, China, 2020.10-2022.08

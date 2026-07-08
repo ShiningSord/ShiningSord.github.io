@@ -38,37 +38,38 @@ Email: zixiaowang97@gmail.com \n
 
 
 
-== Awards
-- Full Postgraduate Studentship,    CUHK,    2022-2026
-- Outstanding Graduate of Computer Science and Technology, THU,    2022
-- Qi Hang Scholarship, THU,    2019
-- 2nd Place Award in Technical Challenge (Team Vulcan), RoboCup, 2018
-- 3rd Place Award in 1v1 Contest (Team Vulcan), RoboCup, 2018
-- Academician Ni Weidou, Scholarship Endowment Fund, THU,    2018
-- Zheng Geru Scholarship, THU,    2017
+== Selected Awards
+
+{{<table id="noborder">
+<tr><td>Full Postgraduate Studentship</td><td>CUHK</td><td>2022-2026</td></tr>
+<tr><td>Outstanding Graduate of Computer Science and Technology</td><td>Tsinghua University</td><td>2022</td></tr>
+<tr><td>Qi Hang Scholarship</td><td>Tsinghua University</td><td>2019</td></tr>
+<tr><td>Academician Ni Weidou Scholarship Endowment Fund</td><td>Tsinghua University</td><td>2018</td></tr>
+<tr><td>Zheng Geru Scholarship</td><td>Tsinghua University</td><td>2017</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1st runner-up in MLCAD Contest</td><td>MLCAD</td><td>2026</td></tr>
+<tr><td>2nd Place Award in Technical Challenge (Team Vulcan)</td><td>RoboCup</td><td>2018</td></tr>
+<tr><td>3rd Place Award in 1v1 Contest (Team Vulcan)</td><td>RoboCup</td><td>2018</td></tr>
+</table>}}
 
 
 == Publication
 \* denotes equal contribution.
 
-=== Selected Preprint
-
-- \[1\] "On the Distributed Evaluation of Generative Models", ([https://arxiv.org/abs/2310.11714 arXiv]) ([https://openaccess.thecvf.com/content/ICCV2025W/CEGIS/html/Wang_On_the_Distributed_Evaluation_of_Generative_Models_ICCVW_2025_paper.html ICCVW])
-- \[2\] "MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations", ([https://arxiv.org/abs/2406.07017 arXiv]) ([https://github.com/shiningsord/moreaupruner code])
-
-
 === Conference papers
-- \[C14\] Leilei Jin, Haoyang Xu, Siyuan Liang, Zhen Zhuang, Zhou Hu, *Zixiao Wang*, Bei Yu, Rongmei Chen, Tsung-Yi Ho, “BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
+- \[C15\] Leilei Jin, Haoyang Xu, Siyuan Liang, Zhen Zhuang, Zhou Hu, *Zixiao Wang*, Bei Yu, Rongmei Chen, Tsung-Yi Ho, “BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
 
-- \[C13\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539572 DiffResist: Physics-Constrained Diffusion for Photoresist Modeling]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])
+- \[C14\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539572 DiffResist: Physics-Constrained Diffusion for Photoresist Modeling]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])
 
-- \[C12\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539721 FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C12-DATE2026-FastRW.pdf paper]) ([papers/C12-DATE2026-FastRW-poster.pdf poster]) ([papers/C12-DATE2026-FastRW-slides.pdf slides]) ([https://github.com/ShiningSord/FastRW code])
+- \[C13\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539721 FastRW: An Efficient Random Walk Method for Steady-State Thermal Analysis]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C12-DATE2026-FastRW.pdf paper]) ([papers/C12-DATE2026-FastRW-poster.pdf poster]) ([papers/C12-DATE2026-FastRW-slides.pdf slides]) ([https://github.com/ShiningSord/FastRW code])
 
-- \[C11\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “[https://doi.org/10.23919/DATE69613.2026.11539589 Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C11-DATE2026-Node2Node.pdf paper])
+- \[C12\] Wenbo Xu, Silin Chen, Yibo Huang, Xinyun Zhang, *Zixiao Wang*, Bei Yu, Ningmu Zou, “[https://doi.org/10.23919/DATE69613.2026.11539589 Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C11-DATE2026-Node2Node.pdf paper])
 
-- \[C10\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “[https://doi.org/10.1109/ASP-DAC66049.2026.11420303 DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C10-ASPDAC2026-DCLOG.pdf paper])
+- \[C11\] Rongliang Fu, Libo Shen, Ziyi Wang, Zhengxing Lei, *Zixiao Wang*, Junying Huang, Bei Yu, Tsung-Yi Ho, “[https://doi.org/10.1109/ASP-DAC66049.2026.11420303 DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C10-ASPDAC2026-DCLOG.pdf paper])
 
-- \[C9\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “[https://doi.org/10.1109/ASP-DAC66049.2026.11420324 Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C9-ASPDAC2026-Event-ReID.pdf paper]) ([papers/C9-ASPDAC2026-Event-ReID-slides.pdf slides])
+- \[C10\] Xinyun Zhang\*, *Zixiao Wang\**, Yurui Kuang, Bei Yu, “[https://doi.org/10.1109/ASP-DAC66049.2026.11420324 Video-based Visible-Event Cross-modal Person Re-identification for Edge AI Surveillance Systems]”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19–22, 2026. ([papers/C9-ASPDAC2026-Event-ReID.pdf paper]) ([papers/C9-ASPDAC2026-Event-ReID-slides.pdf slides])
+
+- \[C9\] *Zixiao Wang*, Farzan Farnia, Zhenghao Lin, Yunheng Shen, Bei Yu, “[https://openaccess.thecvf.com/content/ICCV2025W/CEGIS/html/Wang_On_the_Distributed_Evaluation_of_Generative_Models_ICCVW_2025_paper.html On the Distributed Evaluation of Generative Models]”, IEEE/CVF International Conference on Computer Vision Workshops (*ICCVW*), Honolulu, Oct. 19–20, 2025, pp. 7703–7712. ([https://openaccess.thecvf.com/content/ICCV2025W/CEGIS/papers/Wang_On_the_Distributed_Evaluation_of_Generative_Models_ICCVW_2025_paper.pdf paper]) ([https://arxiv.org/abs/2310.11714 arXiv])
 
 - \[C8\] Ziyang Yu, Peng Xu, *Zixiao Wang*, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, “[https://doi.org/10.1109/DAC63849.2025.11133153 SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation]”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025. ([papers/C8-DAC2025-PEB.pdf paper]) ([papers/C8-DAC2025-PEB-poster.pdf poster]) ([papers/C8-DAC2025-PEB-slides.pdf slides])
 
@@ -98,7 +99,7 @@ Email: zixiaowang97@gmail.com \n
 == Softwares
 - [https://github.com/ShiningSord/FastRW FastRW]: GPU random-walk thermal solver and experiment harness for the FastRW / FasterRW algorithms (Apple Metal + C\+\+17).
 - [https://github.com/ShiningSord/TorchResist TorchResist]: An open-source differentiable photoresist simulator that is implemented with Pytorch.
-- [https://github.com/shiningsord/moreaupruner MoreauPruner]: Robust pruning framework for large language models against weight perturbations.
+- [https://github.com/shiningsord/moreaupruner MoreauPruner]: Robust pruning framework for large language models against weight perturbations. ([https://arxiv.org/abs/2406.07017 paper])
 
 
 == Experience

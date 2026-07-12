@@ -9,7 +9,7 @@ Assistant Professor\n
 [https://funh.hkust-gz.edu.cn/academics/microelectronics/faculty-members/ Microelectronics Thrust, Function Hub]\n
 [https://hkust-gz.edu.cn/ The Hong Kong University of Science and Technology (Guangzhou)]\n
 {{<span class="social-icons profile-icons"><a href="https://scholar.google.com/citations?user=tGKoPtkAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener"><img src="img/logo-scholar.svg" alt="Google Scholar" title="Google Scholar" /></a><a href="https://github.com/ShiningSord" target="_blank" rel="noopener"><img src="img/logo-github.svg" alt="GitHub" title="GitHub" /></a><a href="https://orcid.org/0009-0000-8179-0996" target="_blank" rel="noopener"><img src="img/logo-orcid.svg" alt="ORCID" title="ORCID" /></a></span>}}\n
-[cv.pdf *Resume\/CV*] (as of June, 2026)
+[cv.pdf *Resume\/CV*] (as of July, 2026)
 ~~~
 
 == Biography
@@ -57,6 +57,10 @@ Email: zixiaowang97@gmail.com \n
 \* denotes equal contribution.
 
 === Conference papers
+- \[C17\] *Zixiao Wang*, Leilei Jin, Zhen Zhuang, Rongmei Chen, Bei Yu, “CSCO: A Backside-PDN-Aware Clock–Signal Co-Optimization Framework for Improved PPA”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
+
+- \[C16\] Chaofan Wang, Ziyang Yu, Su Zheng, *Zixiao Wang*, Yifan Shi, Bei Yu, “Moreau-ILT: Efficient Inverse Lithography Exploiting Weak Convexity”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
+
 - \[C15\] Leilei Jin, Haoyang Xu, Siyuan Liang, Zhen Zhuang, Zhou Hu, *Zixiao Wang*, Bei Yu, Rongmei Chen, Tsung-Yi Ho, “BSPDN-Elite: A Comprehensive Framework for Optimizing Timing, Power and Routing Resources in BSPDN Designs”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
 
 - \[C14\] *Zixiao Wang*, Jieya Zhou, Xinyun Zhang, Shoubo Hu, Farzan Farnia, Bei Yu, “[https://doi.org/10.23919/DATE69613.2026.11539572 DiffResist: Physics-Constrained Diffusion for Photoresist Modeling]”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026. ([papers/C13-DATE2026-DiffResist.pdf paper]) ([papers/C13-DATE2026-DiffResist-poster.pdf poster]) ([papers/C13-DATE2026-DiffResist-slides.pdf slides])

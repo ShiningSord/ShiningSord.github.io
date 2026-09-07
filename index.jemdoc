@@ -88,7 +88,7 @@ Email: zixiaowang97@gmail.com \n
 
 - \[C4\] Yang Bai, Wenqian Zhao, Shuo Yin, *Zixiao Wang*, Bei Yu, “[https://doi.org/10.18653/v1/2023.emnlp-main.250 ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers]”, Empirical Methods in Natural Language Processing (*EMNLP*), Singapore, Dec. 06–10, 2023. ([papers/C4-EMNLP2023-ATFormer.pdf paper]) ([papers/C4-EMNLP2023-ATFormer-poster.pdf poster]) ([papers/C4-EMNLP2023-ATFormer-slides.pdf slides])
 
-- \[C3\] *Zixiao Wang\**, Yunheng Shen\*, Wenqian Zhao, Yang Bai, Guojin Chen, Farzan Farnia, Bei Yu, “[https://doi.org/10.1109/DAC56929.2023.10248009 DiffPattern: Layout Pattern Generation via Discrete Diffusion]”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023. ([papers/C3-DAC2023-DiffPattern.pdf paper]) ([papers/C3-DAC2023-DiffPattern-poster.pdf poster]) ([papers/C3-DAC2023-DiffPattern-slides.pdf slides])
+- \[C3\] *Zixiao Wang\**, Yunheng Shen\*, Wenqian Zhao, Yang Bai, Guojin Chen, Farzan Farnia, Bei Yu, “[https://doi.org/10.1109/DAC56929.2023.10248009 DiffPattern: Layout Pattern Generation via Discrete Diffusion]”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023. ([papers/C3-DAC2023-DiffPattern.pdf paper]) ([papers/C3-DAC2023-DiffPattern-poster.pdf poster]) ([papers/C3-DAC2023-DiffPattern-slides.pdf slides]) ([https://github.com/ShiningSord/DiffPattern code])
 
 - \[C2\] *Zixiao Wang*, Junwu Weng, Chun Yuan, Jue Wang, “[https://ojs.aaai.org/index.php/AAAI/article/view/25375 Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos]”, AAAI Conference on Artificial Intelligence (*AAAI*, {{<span class="red"><b>Oral</b></span>}}), Washington, Feb. 7–14, 2023. ([papers/C2-AAAI2023-TSC.pdf paper]) ([papers/C2-AAAI2023-TSC-poster.pdf poster]) ([papers/C2-AAAI2023-TSC-slides.pdf slides]) ([https://github.com/ShiningSord/Truncate-Split-Contrast-A-Framework-for-Learning-from-Mislabeled-Videos code])
 
@@ -110,6 +110,7 @@ Email: zixiaowang97@gmail.com \n
 - [https://github.com/ShiningSord/FastRW FastRW]: GPU random-walk thermal solver and experiment harness for the FastRW / FasterRW algorithms (Apple Metal + C\+\+17).
 - [https://github.com/ShiningSord/TorchResist TorchResist]: An open-source differentiable photoresist simulator that is implemented with Pytorch.
 - [https://github.com/shiningsord/moreaupruner MoreauPruner]: Robust pruning framework for large language models against weight perturbations. ([https://arxiv.org/abs/2406.07017 paper])
+- [https://github.com/ShiningSord/DiffPattern DiffPattern]: Discrete diffusion framework for layout topology generation and constrained geometry assignment.
 
 
 == Experience

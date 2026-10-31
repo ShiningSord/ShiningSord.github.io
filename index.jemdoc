@@ -63,7 +63,7 @@ My research focuses on large language models and generative AI for chip design a
 - \[P1\] *Zixiao Wang*, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Leilei Jin, Tsung-Yi Ho, Farzan Farnia, Bei Yu, “FasterRW: An Efficient Prior-Assisted Random Walk Solver for Thermal Analysis”, 2026. ([papers/P1-FasterRW.pdf pdf]) ([https://github.com/ShiningSord/FastRW code])
 
 === Conference papers
-- \[C20\] Xiangci Li, Yihan Wen, Yifan Shi, *Zixiao Wang*, Fan Tang, Yuanqing Cheng, Tianshu Hou, Bei Yu, “3DCoolFloor: Thermal-Aware Floorplanning with Differentiable Microchannel Co-Design”, ACM International Symposium on Physical Design (*ISPD*), Taipei, 2027.
+- \[C20\] Xiangci Li, Yihan Wen, Yifan Shi, *Zixiao Wang*, Fan Tang, Yuanqing Cheng, Tianshu Hou, Bei Yu, “3DCoolFloor: Thermal-Aware Floorplanning with Differentiable Microchannel Co-Design”, ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 31–Apr. 02, 2027.
 
 - \[C19\] {{<span id="paper-diffcool"></span>}}Siyuan Liang, *Zixiao Wang*, Chenghan Wang, Shanyi Li, Yushen Zhang, Leilei Jin, Zhen Zhuang, Ulf Schlichtmann, Bei Yu, Tsung-Yi Ho, “DiffCool: Label-Free Synthesis of Chip-Tailored Heat Sinks via Thermal-Aware Diffusion”, Conference on Neural Information Processing Systems (*NeurIPS*), Sydney, Australia, Dec. 06–12, 2026.
 

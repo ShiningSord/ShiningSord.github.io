@@ -24,9 +24,9 @@ Email: zixiaowang97@gmail.com \n
 == Research Interest
 My research focuses on large language models and generative AI for chip design and physical simulation. I am particularly interested in how AI models can generate designs under engineering constraints, learn from simulation feedback, and accelerate the modeling and optimization of physical systems.
 
-- LLM Agents and Generative AI for Chip Design (e.g., [papers/C5-DAC2024-ChatPattern.pdf ChatPattern], [papers/C16-MLCAD2026-TAPCO.pdf TAPCO], [papers/C3-DAC2023-DiffPattern.pdf DiffPattern])
-- Physics-Aware AI for Simulation and Inverse Design (e.g., [\#paper-diffcool DiffCool], [papers/C13-DATE2026-DiffResist.pdf DiffResist], [papers/P1-FasterRW.pdf FasterRW])
-- Efficient AI and Hardware-Aware Computing (e.g., [papers/J4-TODAES2025-HAPE.pdf HAPE], [https://arxiv.org/abs/2406.07017 MoreauPruner], [papers/C4-EMNLP2023-ATFormer.pdf ATFormer])
+- LLM Agents and Generative AI for Chip Design
+- Physics-Aware AI for Simulation and Inverse Design
+- Efficient AI and Hardware-Aware Computing
   
 
 
